@@ -3,6 +3,6 @@
 
 2. Получаем контакт по id https://prnt.sc/QrevdgKx9oi3
 
-3. Добавялем контакт https://prnt.sc/f6wfF4w3rz2Z
+3. Добавялем контакт https://prnt.sc/b5lCGtlTF8wr
 
 4. Удаляем контакт https://prnt.sc/hH-gBAdjn8wB
